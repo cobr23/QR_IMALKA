@@ -1,0 +1,16 @@
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .cache/replit/modules/nodejs-20","time":"2024-08-16T12:00:51Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .cache/replit/modules/replit","time":"2024-08-16T12:00:51Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/cfonts","time":"2024-08-16T12:00:52Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/mime","time":"2024-08-16T12:00:52Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/pastebin","time":"2024-08-16T12:00:52Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/pino","time":"2024-08-16T12:00:52Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/qrcode","time":"2024-08-16T12:00:52Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/sshpk-conv","time":"2024-08-16T12:00:52Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/sshpk-sign","time":"2024-08-16T12:00:52Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/sshpk-verify","time":"2024-08-16T12:00:52Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/uuid","time":"2024-08-16T12:00:52Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/window-size","time":"2024-08-16T12:00:52Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/@whiskeysockets/baileys/node_modules/.bin/pino","time":"2024-08-16T12:00:52Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/libsignal/node_modules/.bin/pbjs","time":"2024-08-16T12:00:53Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/libsignal/node_modules/.bin/pbts","time":"2024-08-16T12:00:53Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/request/node_modules/.bin/uuid","time":"2024-08-16T12:00:54Z"}
